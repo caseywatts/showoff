@@ -3,7 +3,7 @@ source :rubygems
 gemspec
 
 group :development do
-  gem "mg"
+  #gem "mg"
   gem "turn"
   gem "rack-test"
   gem "pdf-inspector"

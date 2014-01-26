@@ -3,7 +3,7 @@
 
 # ST Stuff #
 
-<!SLIDE bullets incremental transition=fade>
+<!SLIDE bullets incremental>
 .notes don't mention how far Sage Hall is
 
 # ST Locations #
@@ -13,9 +13,8 @@
 * Sage Hall
 
 <!SLIDE bullets>
-# Third Slide
+# Coordinators
 
-Coordinators
 * Queue
 * Committee
 * HWSpecs

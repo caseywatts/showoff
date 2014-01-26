@@ -9,7 +9,7 @@
   "sections": [
     {"section":"hardware"},
     {"section":"software"},
-    {"section":"three"},
+    {"section":"examples/three"},
     {"section":"four"}
   ],
   "feedback": true

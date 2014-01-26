@@ -8,7 +8,7 @@
   "pause_msg": "Paused !!!",
   "sections": [
     {"section":"hardware"},
-    {"section":"two"},
+    {"section":"software"},
     {"section":"three"},
     {"section":"four"}
   ],

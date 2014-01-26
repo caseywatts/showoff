@@ -1,18 +1,16 @@
 <!SLIDE title-slide>
 .notes first slide
 
-# First Slide #
+# ST Stuff #
 
 <!SLIDE bullets incremental transition=fade>
 .notes something something something something something something something something something something something something something something something dark side
 
-# Second Slide #
+# ST Locations #
 
-* something
-* something else
-* a third thing
-* a fourth thing
-* a fifth thing
+* TTO
+* io
+* Sage Hall
 
 <!SLIDE bullets>
 # Third Slide

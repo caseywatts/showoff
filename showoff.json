@@ -1,11 +1,11 @@
 {
-  "name": "Something",
-  "description": "Example Presentation",
-  "author": "Foo Bar John",
+  "name": "STC Training",
+  "description": "STC Training Presentations",
+  "author": "Casey Watts",
   "templates" : {
       "special" : "simple.tpl"
   },
-  "pause_msg": "Paused !!!",
+  "pause_msg": "brb",
   "sections": [
     {"section":"hardware"},
     {"section":"software"},
